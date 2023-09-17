@@ -226,7 +226,7 @@ header .cart {
 }
 
 .section-4-item {
-    width: 232px;
+    width: 100%;
     height: 100%;
     padding: 0 15px;
     display: flex;
